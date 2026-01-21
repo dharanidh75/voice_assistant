@@ -1,4 +1,4 @@
-FRIDAY Voice Assistant - Simple README
+FRIDAY Voice Assistant
 What is this?
 
 A simple voice assistant that listens to you, uses AI to think, and talks back.
